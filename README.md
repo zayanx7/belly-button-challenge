@@ -8,12 +8,12 @@ The Belly Button Biodiversity Dashboard is built using D3.js and Plotly to visua
 
 ## Features
 
-- **Horizontal Bar Chart:** Displaying the top 10 OTUs found in an individual, with sample values, OTU IDs, and hovertext.
+- **Horizontal Bar Chart:** Displaying the top 10 OTUs found in an individual, with sample values, OTU IDs, and hover text.
 
-- **Bubble Chart:** Visualizing each sample with OTU IDs, sample values, marker size, marker colors, and text values.
+- **Bubble Chart:** Visualizing each sample with OTU IDs, sample values, marker size, marker colours, and text values.
 
 ## Instructions
 
-- Open the index.html file in a web browser or visit
+- Open the index.html file in a web browser or visit https://github.com/zayanx7/belly-button-challenge/blob/main/index.html
 
 - The default ID is set to 940. Use the dropdown menu to select a different ID and view the associated metadata, bar graph, and bubble chart.
